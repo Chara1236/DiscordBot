@@ -26,9 +26,6 @@ Noresponse = ["Bro che cho why the heck didn't you respond?",
               "Yo nerd if your going to use a command at least ANSWER me",
               "Ok just going to remain slient? Bruhhh",
               "Yo wtf I came online just to run this command and you ignore me?"]
-reddit = asyncpraw.Reddit(client_id='806606103252959242',
-                          client_secret='cDR5Xurhoz_R2HCQEy_AcPZTy8aKOgsk',
-                          user_agent='UniBot')
 client = commands.Bot(command_prefix='much ', )
 client.remove_command('help')
 
