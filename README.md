@@ -11,6 +11,8 @@ In your enviroment variables set 'tok" to your API key
 ```
 
 Included features:
+```
 Blackjack
 Puzzle maze (inspired by Undertale puzzle maze)
-Dankmemer-esque economy game
+Dankmemer-esque economy game using MongoDB
+```
