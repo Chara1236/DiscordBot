@@ -62,7 +62,7 @@ mine
 ![image](https://github.com/Chara1236/DiscordBot/assets/53840675/e656c3fa-86c6-44aa-a4c2-25e7cdd8b994)
 
 
-Note: Balance carrys over to other servers as it is stored on MongoDB
+Note: Balance carries over to other servers as it is stored on MongoDB
 
 ![image](https://github.com/Chara1236/DiscordBot/assets/53840675/94296809-9e05-47df-b48d-d005d1c0494d)
 
