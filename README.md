@@ -5,7 +5,7 @@ pip install pymongo
 ```
 
 ### Enviroment set up:
-In your enviroment variables set 'tok" to your API key
+In your enviroment variables set 'tok' to your API key
 ```
 'tok' = 'Insert API key"
 ```
